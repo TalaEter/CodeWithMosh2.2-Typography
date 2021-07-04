@@ -1,0 +1,39 @@
+html {
+  font-size: 62.5%;
+}
+p {
+  font-family: "Bona Nova", serif;
+  font-size: 1.953rem;
+  font-style: italic;
+}
+
+li {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.25rem;
+}
+h1,
+h4,
+h5 {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 900;
+}
+h4 {
+  font-size: 3.157rem;
+}
+h5 {
+  font-size: 2.369rem;
+}
+h1 {
+  font-size: 4.209rem;
+}
+body {
+  width: 1140px;
+  line-height: 1.5;
+  padding: 2rem;
+  margin: 0 auto;
+}
+img {
+  height: 39rem;
+  width: 100%;
+  object-fit: cover;
+}
